@@ -1,4 +1,4 @@
-import = ["/home/ivoslovacek/.config/alacritty/catppuccin/catppuccin-frappe.toml"]
+import = ["~/.config/alacritty/catppuccin/gruvbox-theme.yml"]
 
 [env]
 TERM = "xterm-256color"
@@ -23,4 +23,4 @@ args = ["new-session"]
 program = "tmux"
 
 [window]
-opacity = 0.8
+opacity = 1
